@@ -83,7 +83,7 @@ MIT License.
 ## Citation
 
 Mpofu, M. (2023). Compassion Economics: A Computational Framework for Modeling Compassion as a Finite Resource.
-GitHub repository: https://github.com/myumelelompofu3-cmd/compassion-economics
+GitHub repository: https://github.com/mpumelelompofu3-cmd/compassion-economics
 
 ---
 
